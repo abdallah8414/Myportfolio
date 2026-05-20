@@ -94,6 +94,12 @@ Copyright information
 Newsletter subscription form
 Learning Outcomes
 
+# visit  in browser
+
+https://abdallah8414.github.io/Myportfolio/
 
 
+# visit github
+
+https://github.com/abdallah8414/Myportfolio
 
